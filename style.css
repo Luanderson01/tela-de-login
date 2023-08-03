@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+
+body    {
+    background-image: url(fotos/photo-1690141001405-456018efb3f9.avif);
+    background-position:center;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+article{
+    background-image: url(fotos/photo-1690373618605-25197c4dc056.avif);
+}
+
+
+
+
+
